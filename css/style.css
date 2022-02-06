@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+body {
+	font-family: Lato;
+	font-style: normal;
+	color: #1e212c;
+}
+h1 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+}
+.text-main {
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+.content {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.text {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+	text-indent: 30px;
+}
+.list {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	text-indent: 30px;
+}
